@@ -1,0 +1,11 @@
+*{
+	text-align: center;
+	margin-top: 75px;
+}
+
+.date {
+        color: blue;
+}
+.time{
+	color: green;
+}
